@@ -9,3 +9,5 @@ After that by getting COCO output we used Detectron 2 pre-trined models (transfe
 model faster_rcnn_R_101_FPN_3x was used because of it's fast pace and good accuracy.<br>
 after training the model on different dataset that each was created by using different augmentation the model was able to perfectly detect each number. the result picture is down below.<br>
 ![alt text](https://github.com/smrh1379/Neural_network_SBU/blob/main/final.jpg?raw=true)
+By using the algorithm developed by our team the result get calculated and then was written to the picture.
+! important: The algorithm is written such that each equation should be started with => sign to be able to calculate it. Numbers far from this sign would not be considered as a number in equation. if the equation is such that numbers are not followed by an operator it will be ignored
